@@ -77,4 +77,3 @@ spring.datasource.password=your_password
 ## License
 
 MIT License
-# instagram-clone-headout
